@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE -->
 <br />
 <p align="center">
-  <h2 align="center">List Pest</h2>
+  <h2 align="center">List Pets</h2>
 </p>
 
 
